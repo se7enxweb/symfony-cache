@@ -1,5 +1,5 @@
 {
-    "name": "se7enxweb/cache",
+    "name": "se7enxweb/symfony-cache",
     "type": "library",
     "description": "Symfony Cache component with PSR-6, PSR-16, and tags",
     "keywords": ["caching", "psr6"],
